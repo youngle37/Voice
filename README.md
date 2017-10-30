@@ -1,6 +1,6 @@
 # Voice 【=◈︿◈=】
 Just for JAVA socket test
 ## Screenshot
-![screenshot](https://imgur.com/luHpkh2)
+![screenshot](https://i.imgur.com/luHpkh2.png)
 ## Usage
 Input IP and port then you can talk to your friend(yourself) with microphone and speaker.
